@@ -11,7 +11,7 @@ pandas>=2.0.0
 yfinance>=0.2.40
 
 # Visualization
-matplotlib>=3.7.0
+matplotlib==3.8.4
 seaborn>=0.13.0
 
 # Jupyter (optional, for notebooks)
