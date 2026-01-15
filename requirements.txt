@@ -3,7 +3,7 @@ pymc>=5.10.0
 arviz>=0.18.0
 
 # Numerical computing
-numpy>=1.24.0,<2.0.0
+numpy>=1.24.0
 scipy>=1.10.0
 pandas>=2.0.0
 
@@ -11,7 +11,7 @@ pandas>=2.0.0
 yfinance>=0.2.40
 
 # Visualization
-matplotlib==3.8.4
+matplotlib>=3.8.4
 seaborn>=0.13.0
 
 # Jupyter (optional, for notebooks)
